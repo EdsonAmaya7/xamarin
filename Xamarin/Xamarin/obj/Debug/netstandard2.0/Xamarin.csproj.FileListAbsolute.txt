@@ -1,0 +1,16 @@
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.deps.json
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.dll
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\ref\Xamarin.dll
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.pdb
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csproj.AssemblyReference.cache
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfoInputs.cache
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfo.cs
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.dll
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\ref\Xamarin.dll
+C:\Users\edson\Desktop\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.pdb
