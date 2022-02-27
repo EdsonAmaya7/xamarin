@@ -1,0 +1,16 @@
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\bin\Debug\netstandard2.0\appAndroid.deps.json
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\bin\Debug\netstandard2.0\appAndroid.dll
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\bin\Debug\netstandard2.0\ref\appAndroid.dll
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\bin\Debug\netstandard2.0\appAndroid.pdb
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.csproj.AssemblyReference.cache
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.AssemblyInfo.cs
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.dll
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\ref\appAndroid.dll
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\appAndroid.pdb
+C:\Users\edson\source\repos\appAndroid\appAndroid\appAndroid\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
